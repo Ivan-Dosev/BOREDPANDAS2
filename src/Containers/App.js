@@ -189,7 +189,7 @@ class App extends PureComponent {
   navigationButtons(){
     return  <ol id="navBar">
               <li onClick={()=> this.addTab("About")}>About</li>
-              <li onClick={()=> this.addTab("Minting")}>Minting</li>
+              
               <li onClick={()=> this.addTab("Roadmap")}>Roadmap</li>
               <li onClick={()=> this.addTab("Team")}>Team</li>
               <li onClick={()=> this.addTab("FAQ")}>FAQ</li>

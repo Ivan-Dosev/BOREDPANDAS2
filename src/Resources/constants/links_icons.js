@@ -8,15 +8,15 @@ import {ReactComponent as DISCORD} from '../icons/discord1a.svg'
 const links_icons =
 [
     {
-        link : 'https://www.instagram.com',
+        link : 'https://www.instagram.com/boredpandas_adventures/',
         icon : INSTAGRAM
     },
     {
-        link : 'https://twitter.com',
+        link : 'https://twitter.com/pandas_bored',
         icon : TWITTER
     }, 
     {
-        link : 'https://discord.com',
+        link : 'https://discord.gg/YwxKAaMq',
         icon : DISCORD
     }
 ]
